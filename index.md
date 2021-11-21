@@ -29,7 +29,7 @@ Mer om vad vi står för, våra tankar och idéer hittar ni på [Niklas blogg](h
 
 ## Kontakta oss!
 
-Låter det intressant så berättar vi gärna mer. Kontaktuppgifter hittar ni nedan.
+Låter det intressant så berättar vi gärna mer!
 
 ```
 Niklas Lindblad
