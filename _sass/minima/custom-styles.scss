@@ -1,0 +1,18 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+@import url('https://fonts.googleapis.com/css?family=Kalam');
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Kalam', $base-font-family;
+}
+
+.post-title,
+.post-content h1 {
+  @include relative-font-size(4.625);
+  text-align: center;
+
+  @media screen and (min-width: $on-large) {
+    @include relative-font-size(4.625);
+  }
+}
