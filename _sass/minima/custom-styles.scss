@@ -7,20 +7,15 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Kalam', $base-font-family;
 }
 
-.post-title,
-.post-content h1 {
-  @include relative-font-size(4.625);
+.post-title {
   text-align: center;
-
-  @media screen and (min-width: $on-large) {
-    @include relative-font-size(4.625);
-  }
-}
-
-body {
-  background-color: #1a1a1a;
 }
 
 .logo {
   max-width: 50%;
+}
+
+.contact-image {
+  filter: grayscale(100%);
+  border-radius: 50%;
 }
