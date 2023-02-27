@@ -34,6 +34,6 @@ Låter det intressant så berättar vi gärna mer!
 ![niklas](/assets/images/niklas.jpg){: .contact-image}
 
 > Niklas Lindblad \
-> Frilansande konsult, VD och grundare. \
+> Frilansande utvecklare, VD och grundare. \
 > 0703 83 24 21 \
 > niklas.lindblad@finurlit.se
